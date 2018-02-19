@@ -12,7 +12,7 @@ must be on ios 11.3 to fix it and send it
 
 
 iOS 11.2.2
-http://cloudftl.github.io/iMessageCrashCode
+https://bogdanz.me/work/diddu.html
 
 iOS 10.3 
     ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍       ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍       ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍   BLAKE    ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍       ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍       ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍       ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍       ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍       ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍   BLAKE    ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍       ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍       ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍       ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍       ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍       ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍   BLAKE    ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍       ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍       ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍      ‍
