@@ -4,8 +4,12 @@ THIS CONTAINS NOT 1 but 6 bugs if one doesnt work you have 5 more
 
 Here Is The List
 
-LATEST CRASH
-⚠iOS 11.2.5⚠
+NEWEST BUG 
+⚠iOS 11.2.6-11.4 b1⚠
+https://www.vincedes3.com/blackdotbug.html
+SEND FIRST MESSAGE THEN SECOND ONE 
+
+iOS 11.2.5
 జ్ఞ ‌ా
 WORKS ON ig and sc
 must be on ios 11.3 to fix it and send it
