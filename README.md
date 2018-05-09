@@ -1,6 +1,6 @@
 # BugCollection
 All of the previous iMessage bugs I could find enjoy use responsibly 
-THIS CONTAINS NOT 1 but 6 bugs if one doesnt work you have 5 more
+THIS CONTAINS NOT 1 but 7 bugs THERE IS A BUG FOR EVERY FIRMWARE
 
 Here Is The List
 
