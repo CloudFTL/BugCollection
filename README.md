@@ -28,7 +28,7 @@ http://preston159.com/downloads/%EF%BF%BD%EF%BF%BD%EF%B8%8F-0%EF%BF%BD%EF%BF%BD%
 iOS 10.1.1 
 🏳️‍0🌈
 
-iOS 9.1
+iOS 8 
 effective.
 Power
 ‎لُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ
