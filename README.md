@@ -4,7 +4,10 @@ THIS CONTAINS NOT 1 but 7 bugs THERE IS A BUG FOR EVERY FIRMWARE
 
 Here Is The List
 
-NEWEST BUG 
+LATEST BUG
+⚠iOS 11.0-11.4⚠
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/CloudFTL/OnlineRespring/master/SlowDownMyDevice.plist
+
 ⚠iOS 11.2.6-11.4 b1⚠
 https://www.vincedes3.com/blackdotbug.html
 SEND FIRST MESSAGE THEN SECOND ONE 
