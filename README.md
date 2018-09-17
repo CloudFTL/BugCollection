@@ -1,15 +1,20 @@
 # BugCollection
 All of the previous iMessage bugs I could find enjoy use responsibly 
-THIS CONTAINS NOT 1 but 7 bugs THERE IS A BUG FOR EVERY FIRMWARE
+THIS CONTAINS NOT 1 but 9 bugs THERE IS A BUG FOR EVERY FIRMWARE
 
 Here Is The List
 
+
 LATEST BUG
+⚠️iOS 11.4.1-12.0 (GM)⚠️
+https://gist.github.com/pwnsdx/ce64de2760996a6c432f06d612e33aea
+
+
 ⚠iOS 11.0-11.4⚠
 itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/CloudFTL/OnlineRespring/master/SlowDownMyDevice.plist
 
 ⚠iOS 11.2.6-11.4 b1⚠
-https://www.vincedes3.com/blackdotbug.html
+https://www.vincedes3.com/0blackdotbug.html
 SEND FIRST MESSAGE THEN SECOND ONE 
 
 iOS 11.2.5
